@@ -1,0 +1,20 @@
+{
+  "name": "acid-lists",
+  "description": "lists for acidlisp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dominictarr/acid-lists",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/acid-lists.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.13.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "bin": "./load.js",
+  "author": "Dominic Tarr @EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+  "license": "MIT"
+}
